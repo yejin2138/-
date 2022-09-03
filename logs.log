@@ -1,0 +1,1471 @@
+2022-08-31 07:12:57,210:INFO:Initializing load_model()
+2022-08-31 07:12:57,210:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:13:04,741:INFO:Initializing load_model()
+2022-08-31 07:13:04,741:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:13:54,316:INFO:Initializing predict_model()
+2022-08-31 07:13:54,317:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 07:13:54,317:INFO:Checking exceptions
+2022-08-31 07:13:54,317:INFO:Preloading libraries
+2022-08-31 07:25:50,796:INFO:Initializing predict_model()
+2022-08-31 07:25:50,796:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 07:25:50,797:INFO:Checking exceptions
+2022-08-31 07:25:50,797:INFO:Preloading libraries
+2022-08-31 07:34:50,056:INFO:Initializing load_model()
+2022-08-31 07:34:50,057:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:35:29,136:INFO:Initializing load_model()
+2022-08-31 07:35:29,136:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:35:29,284:INFO:Initializing predict_model()
+2022-08-31 07:35:29,284:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 07:35:29,284:INFO:Checking exceptions
+2022-08-31 07:35:29,284:INFO:Preloading libraries
+2022-08-31 07:35:54,608:INFO:Initializing predict_model()
+2022-08-31 07:35:54,608:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 07:35:54,608:INFO:Checking exceptions
+2022-08-31 07:35:54,608:INFO:Preloading libraries
+2022-08-31 07:37:29,936:INFO:Initializing predict_model()
+2022-08-31 07:37:29,936:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 07:37:29,936:INFO:Checking exceptions
+2022-08-31 07:37:29,936:INFO:Preloading libraries
+2022-08-31 07:37:52,696:INFO:Initializing predict_model()
+2022-08-31 07:37:52,697:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 07:37:52,697:INFO:Checking exceptions
+2022-08-31 07:37:52,697:INFO:Preloading libraries
+2022-08-31 07:38:44,061:INFO:Initializing load_model()
+2022-08-31 07:38:44,062:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:38:59,280:INFO:Initializing load_model()
+2022-08-31 07:38:59,280:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:39:08,558:INFO:Initializing load_model()
+2022-08-31 07:39:08,558:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:39:08,722:INFO:Initializing predict_model()
+2022-08-31 07:39:08,722:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 07:39:08,722:INFO:Checking exceptions
+2022-08-31 07:39:08,722:INFO:Preloading libraries
+2022-08-31 07:39:31,348:INFO:Initializing load_model()
+2022-08-31 07:39:31,348:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:39:31,525:INFO:Initializing predict_model()
+2022-08-31 07:39:31,525:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 07:39:31,525:INFO:Checking exceptions
+2022-08-31 07:39:31,525:INFO:Preloading libraries
+2022-08-31 07:39:31,552:INFO:Initializing predict_model()
+2022-08-31 07:39:31,553:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 07:39:31,553:INFO:Checking exceptions
+2022-08-31 07:39:31,553:INFO:Preloading libraries
+2022-08-31 07:40:02,731:INFO:Initializing load_model()
+2022-08-31 07:40:02,731:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:40:54,264:INFO:Initializing load_model()
+2022-08-31 07:40:54,264:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:41:05,167:INFO:Initializing load_model()
+2022-08-31 07:41:05,168:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:41:05,342:INFO:Initializing predict_model()
+2022-08-31 07:41:05,342:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 07:41:05,342:INFO:Checking exceptions
+2022-08-31 07:41:05,342:INFO:Preloading libraries
+2022-08-31 07:41:45,592:INFO:Initializing load_model()
+2022-08-31 07:41:45,593:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:41:55,384:INFO:Initializing load_model()
+2022-08-31 07:41:55,385:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:42:04,070:INFO:Initializing load_model()
+2022-08-31 07:42:04,071:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:42:25,636:INFO:Initializing load_model()
+2022-08-31 07:42:25,637:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:42:25,791:INFO:Initializing predict_model()
+2022-08-31 07:42:25,792:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 07:42:25,792:INFO:Checking exceptions
+2022-08-31 07:42:25,792:INFO:Preloading libraries
+2022-08-31 07:43:12,133:INFO:Initializing load_model()
+2022-08-31 07:43:12,134:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:48:48,572:INFO:Initializing load_model()
+2022-08-31 07:48:48,573:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:48:57,493:INFO:Initializing load_model()
+2022-08-31 07:48:57,494:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:49:06,885:INFO:Initializing load_model()
+2022-08-31 07:49:06,886:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:49:16,163:INFO:Initializing load_model()
+2022-08-31 07:49:16,163:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:49:26,252:INFO:Initializing predict_model()
+2022-08-31 07:49:26,252:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 07:49:26,252:INFO:Checking exceptions
+2022-08-31 07:49:26,252:INFO:Preloading libraries
+2022-08-31 07:50:57,550:INFO:Initializing predict_model()
+2022-08-31 07:50:57,551:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 07:50:57,551:INFO:Checking exceptions
+2022-08-31 07:50:57,551:INFO:Preloading libraries
+2022-08-31 07:51:40,670:INFO:Initializing predict_model()
+2022-08-31 07:51:40,670:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 07:51:40,670:INFO:Checking exceptions
+2022-08-31 07:51:40,670:INFO:Preloading libraries
+2022-08-31 07:54:20,247:INFO:Initializing predict_model()
+2022-08-31 07:54:20,247:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 07:54:20,247:INFO:Checking exceptions
+2022-08-31 07:54:20,247:INFO:Preloading libraries
+2022-08-31 07:57:53,844:INFO:Initializing load_model()
+2022-08-31 07:57:53,844:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:58:09,419:INFO:Initializing load_model()
+2022-08-31 07:58:09,420:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:58:17,545:INFO:Initializing load_model()
+2022-08-31 07:58:17,545:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:58:57,367:INFO:Initializing load_model()
+2022-08-31 07:58:57,367:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 07:59:06,684:INFO:Initializing load_model()
+2022-08-31 07:59:06,684:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 08:00:30,145:INFO:Initializing load_model()
+2022-08-31 08:00:30,146:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 08:00:39,273:INFO:Initializing load_model()
+2022-08-31 08:00:39,273:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 08:02:13,750:INFO:Initializing load_model()
+2022-08-31 08:02:13,751:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 08:02:23,357:INFO:Initializing load_model()
+2022-08-31 08:02:23,358:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 08:03:32,897:INFO:Initializing load_model()
+2022-08-31 08:03:32,898:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 08:03:49,386:INFO:Initializing load_model()
+2022-08-31 08:03:49,386:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 08:03:58,524:INFO:Initializing load_model()
+2022-08-31 08:03:58,525:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-08-31 08:05:18,398:INFO:Initializing predict_model()
+2022-08-31 08:05:18,398:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:05:18,398:INFO:Checking exceptions
+2022-08-31 08:05:18,398:INFO:Preloading libraries
+2022-08-31 08:05:34,150:INFO:Initializing predict_model()
+2022-08-31 08:05:34,150:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:05:34,150:INFO:Checking exceptions
+2022-08-31 08:05:34,150:INFO:Preloading libraries
+2022-08-31 08:05:53,080:INFO:Initializing predict_model()
+2022-08-31 08:05:53,080:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:05:53,080:INFO:Checking exceptions
+2022-08-31 08:05:53,080:INFO:Preloading libraries
+2022-08-31 08:06:01,422:INFO:Initializing predict_model()
+2022-08-31 08:06:01,423:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:06:01,423:INFO:Checking exceptions
+2022-08-31 08:06:01,423:INFO:Preloading libraries
+2022-08-31 08:06:25,887:INFO:Initializing predict_model()
+2022-08-31 08:06:25,888:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:06:25,888:INFO:Checking exceptions
+2022-08-31 08:06:25,888:INFO:Preloading libraries
+2022-08-31 08:07:02,814:INFO:Initializing predict_model()
+2022-08-31 08:07:02,814:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:07:02,814:INFO:Checking exceptions
+2022-08-31 08:07:02,814:INFO:Preloading libraries
+2022-08-31 08:07:35,401:INFO:Initializing predict_model()
+2022-08-31 08:07:35,401:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:07:35,401:INFO:Checking exceptions
+2022-08-31 08:07:35,401:INFO:Preloading libraries
+2022-08-31 08:07:50,663:INFO:Initializing predict_model()
+2022-08-31 08:07:50,663:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:07:50,663:INFO:Checking exceptions
+2022-08-31 08:07:50,663:INFO:Preloading libraries
+2022-08-31 08:07:59,780:INFO:Initializing predict_model()
+2022-08-31 08:07:59,781:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:07:59,781:INFO:Checking exceptions
+2022-08-31 08:07:59,781:INFO:Preloading libraries
+2022-08-31 08:08:19,361:INFO:Initializing predict_model()
+2022-08-31 08:08:19,361:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:08:19,361:INFO:Checking exceptions
+2022-08-31 08:08:19,361:INFO:Preloading libraries
+2022-08-31 08:08:30,984:INFO:Initializing predict_model()
+2022-08-31 08:08:30,984:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:08:30,984:INFO:Checking exceptions
+2022-08-31 08:08:30,984:INFO:Preloading libraries
+2022-08-31 08:08:52,024:INFO:Initializing predict_model()
+2022-08-31 08:08:52,024:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:08:52,025:INFO:Checking exceptions
+2022-08-31 08:08:52,025:INFO:Preloading libraries
+2022-08-31 08:09:16,504:INFO:Initializing predict_model()
+2022-08-31 08:09:16,504:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:09:16,504:INFO:Checking exceptions
+2022-08-31 08:09:16,504:INFO:Preloading libraries
+2022-08-31 08:10:55,425:INFO:Initializing predict_model()
+2022-08-31 08:10:55,425:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:10:55,425:INFO:Checking exceptions
+2022-08-31 08:10:55,425:INFO:Preloading libraries
+2022-08-31 08:11:15,937:INFO:Initializing predict_model()
+2022-08-31 08:11:15,937:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:11:15,937:INFO:Checking exceptions
+2022-08-31 08:11:15,937:INFO:Preloading libraries
+2022-08-31 08:11:47,290:INFO:Initializing predict_model()
+2022-08-31 08:11:47,290:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:11:47,290:INFO:Checking exceptions
+2022-08-31 08:11:47,290:INFO:Preloading libraries
+2022-08-31 08:12:07,698:INFO:Initializing predict_model()
+2022-08-31 08:12:07,698:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:12:07,698:INFO:Checking exceptions
+2022-08-31 08:12:07,698:INFO:Preloading libraries
+2022-08-31 08:12:32,425:INFO:Initializing predict_model()
+2022-08-31 08:12:32,425:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:12:32,425:INFO:Checking exceptions
+2022-08-31 08:12:32,425:INFO:Preloading libraries
+2022-08-31 08:12:44,342:INFO:Initializing predict_model()
+2022-08-31 08:12:44,342:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:12:44,342:INFO:Checking exceptions
+2022-08-31 08:12:44,342:INFO:Preloading libraries
+2022-08-31 08:12:57,704:INFO:Initializing predict_model()
+2022-08-31 08:12:57,705:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:12:57,705:INFO:Checking exceptions
+2022-08-31 08:12:57,705:INFO:Preloading libraries
+2022-08-31 08:13:20,077:INFO:Initializing predict_model()
+2022-08-31 08:13:20,077:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:13:20,078:INFO:Checking exceptions
+2022-08-31 08:13:20,078:INFO:Preloading libraries
+2022-08-31 08:13:42,585:INFO:Initializing predict_model()
+2022-08-31 08:13:42,585:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:13:42,585:INFO:Checking exceptions
+2022-08-31 08:13:42,585:INFO:Preloading libraries
+2022-08-31 08:55:36,745:INFO:Initializing predict_model()
+2022-08-31 08:55:36,747:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:55:36,747:INFO:Checking exceptions
+2022-08-31 08:55:36,747:INFO:Preloading libraries
+2022-08-31 08:56:38,544:INFO:Initializing predict_model()
+2022-08-31 08:56:38,545:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:56:38,545:INFO:Checking exceptions
+2022-08-31 08:56:38,545:INFO:Preloading libraries
+2022-08-31 08:59:57,622:INFO:Initializing predict_model()
+2022-08-31 08:59:57,622:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 08:59:57,626:INFO:Checking exceptions
+2022-08-31 08:59:57,626:INFO:Preloading libraries
+2022-08-31 09:00:18,696:INFO:Initializing predict_model()
+2022-08-31 09:00:18,696:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 09:00:18,696:INFO:Checking exceptions
+2022-08-31 09:00:18,696:INFO:Preloading libraries
+2022-08-31 09:00:36,414:INFO:Initializing predict_model()
+2022-08-31 09:00:36,414:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 09:00:36,414:INFO:Checking exceptions
+2022-08-31 09:00:36,414:INFO:Preloading libraries
+2022-08-31 09:01:33,619:INFO:Initializing predict_model()
+2022-08-31 09:01:33,619:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 09:01:33,619:INFO:Checking exceptions
+2022-08-31 09:01:33,620:INFO:Preloading libraries
+2022-08-31 09:02:02,041:INFO:Initializing predict_model()
+2022-08-31 09:02:02,041:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 09:02:02,041:INFO:Checking exceptions
+2022-08-31 09:02:02,041:INFO:Preloading libraries
+2022-08-31 09:02:21,849:INFO:Initializing predict_model()
+2022-08-31 09:02:21,849:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 09:02:21,849:INFO:Checking exceptions
+2022-08-31 09:02:21,850:INFO:Preloading libraries
+2022-08-31 09:02:43,183:INFO:Initializing predict_model()
+2022-08-31 09:02:43,183:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 09:02:43,183:INFO:Checking exceptions
+2022-08-31 09:02:43,183:INFO:Preloading libraries
+2022-08-31 09:03:15,380:INFO:Initializing predict_model()
+2022-08-31 09:03:15,380:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 09:03:15,380:INFO:Checking exceptions
+2022-08-31 09:03:15,380:INFO:Preloading libraries
+2022-08-31 09:04:00,760:INFO:Initializing predict_model()
+2022-08-31 09:04:00,761:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 09:04:00,761:INFO:Checking exceptions
+2022-08-31 09:04:00,761:INFO:Preloading libraries
+2022-08-31 09:25:41,084:INFO:Initializing predict_model()
+2022-08-31 09:25:41,084:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 09:25:41,085:INFO:Checking exceptions
+2022-08-31 09:25:41,086:INFO:Preloading libraries
+2022-08-31 09:25:51,050:INFO:Initializing predict_model()
+2022-08-31 09:25:51,051:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 09:25:51,051:INFO:Checking exceptions
+2022-08-31 09:25:51,051:INFO:Preloading libraries
+2022-08-31 09:26:03,576:INFO:Initializing predict_model()
+2022-08-31 09:26:03,576:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 09:26:03,576:INFO:Checking exceptions
+2022-08-31 09:26:03,576:INFO:Preloading libraries
+2022-08-31 09:26:21,686:INFO:Initializing predict_model()
+2022-08-31 09:26:21,686:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 09:26:21,686:INFO:Checking exceptions
+2022-08-31 09:26:21,686:INFO:Preloading libraries
+2022-08-31 09:26:33,082:INFO:Initializing predict_model()
+2022-08-31 09:26:33,082:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 09:26:33,083:INFO:Checking exceptions
+2022-08-31 09:26:33,084:INFO:Preloading libraries
+2022-08-31 09:33:15,100:INFO:Initializing predict_model()
+2022-08-31 09:33:15,101:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 09:33:15,101:INFO:Checking exceptions
+2022-08-31 09:33:15,101:INFO:Preloading libraries
+2022-08-31 09:40:56,425:INFO:Initializing predict_model()
+2022-08-31 09:40:56,425:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 09:40:56,425:INFO:Checking exceptions
+2022-08-31 09:40:56,425:INFO:Preloading libraries
+2022-08-31 09:41:22,548:INFO:Initializing predict_model()
+2022-08-31 09:41:22,549:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 09:41:22,549:INFO:Checking exceptions
+2022-08-31 09:41:22,549:INFO:Preloading libraries
+2022-08-31 09:49:47,924:INFO:Initializing predict_model()
+2022-08-31 09:49:47,925:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 09:49:47,925:INFO:Checking exceptions
+2022-08-31 09:49:47,925:INFO:Preloading libraries
+2022-08-31 09:50:07,198:INFO:Initializing predict_model()
+2022-08-31 09:50:07,198:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 09:50:07,198:INFO:Checking exceptions
+2022-08-31 09:50:07,199:INFO:Preloading libraries
+2022-08-31 10:35:02,431:INFO:Initializing predict_model()
+2022-08-31 10:35:02,431:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-08-31 10:35:02,432:INFO:Checking exceptions
+2022-08-31 10:35:02,432:INFO:Preloading libraries
+2022-09-03 15:03:51,313:INFO:Initializing load_model()
+2022-09-03 15:03:51,314:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-09-03 15:03:59,379:INFO:Initializing load_model()
+2022-09-03 15:03:59,380:INFO:load_model(model_name=C:/dev/sale/flask-pixel/apps/static/assets/huber_last, platform=None, authentication=None, verbose=True)
+2022-09-03 15:07:03,239:INFO:Initializing predict_model()
+2022-09-03 15:07:03,239:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-09-03 15:07:03,240:INFO:Checking exceptions
+2022-09-03 15:07:03,240:INFO:Preloading libraries
+2022-09-03 15:07:38,685:INFO:Initializing predict_model()
+2022-09-03 15:07:38,686:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='card_use_amount_etc')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequ...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='card_use_amount_etc')),
+                ('fix_perfect', Remove_100(target='card_use_amount_etc')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', HuberRegressor()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-09-03 15:07:38,686:INFO:Checking exceptions
+2022-09-03 15:07:38,686:INFO:Preloading libraries
